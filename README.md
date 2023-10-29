@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I’m Juli, I just finished a Web Development bootcamp in Berlin. I am passionate about AI technology and arts. I am still exploring my options, but for now I am focusing on learning JavaScript and React.
+I’m Juli, I completed a Web Development bootcamp in Berlin in 2022 and am looking into getting back to coding after a break. I am passionate about Arts and photography.
 
 🌱 I’m currently learning Ruby, JavaScript and React
 👯 I’m looking to collaborate on anything coding/art related
